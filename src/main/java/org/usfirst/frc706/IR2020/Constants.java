@@ -16,7 +16,7 @@ public final class Constants {
 			public final static int frontLeft = 4;
 		}
 
-		//All spark IDs get put here
+		//All spark IDs get put here or here
 	}
 
 	public final class Drive {
